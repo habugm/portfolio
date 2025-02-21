@@ -5,10 +5,10 @@ function Home(){
         <main className="main">
   {/* Hero Section */}
   <section id="hero" className="hero section dark-background">
-    <img src="assets/img/c.jpg" className="" />
+    <img src="assets/img/main.jpg" className="" />
     <div className="container" data-aos-delay={100}>
       <h2>Haben Gebremedhin</h2>
-      <p>I'm <span className="typed" data-typed-items="Designer, Developer, Freelancer, Photographer">Designer</span><span className="typed-cursor typed-cursor--blink" aria-hidden="true" /><span className="typed-cursor typed-cursor--blink" aria-hidden="true" /></p>
+      <p>I'm <span className="typed" data-typed-items="Designer, Developer, Freelancer, Photographer">Coder</span><span className="typed-cursor typed-cursor--blink" aria-hidden="true" /><span className="typed-cursor typed-cursor--blink" aria-hidden="true" /></p>
     </div>
   </section>{/* /Hero Section */}
   {/* About Section */}
